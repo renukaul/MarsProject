@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium;
+﻿
+using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 using System;
 using System.Collections.Generic;

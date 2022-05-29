@@ -51,8 +51,14 @@ namespace TalentShareSkillProject.Utilities
           //  return locatorvalue;
         }
 
+        internal static void waittovisibility(IWebDriver driver, string v1, IWebElement lastCertificate, int v2)
+        {
+            throw new NotImplementedException();
+        }
 
-
-
+        internal static void waitByClick(IWebDriver driver, string v1, object editbtn, int v2)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
